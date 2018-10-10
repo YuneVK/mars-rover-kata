@@ -37,7 +37,7 @@ And see the output:
 
 ## Configuration
 
-You can change the *Mars Rover Kata* configuration chaging the following lines of the `app.js` file:
+You can change the *Mars Rover Kata* configuration changing the following lines of the `app.js` file:
 
 ```javascript
 // To change the rovers configuration, add and delete.
