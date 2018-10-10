@@ -14,6 +14,8 @@ The above table represents the grid which show the rovers and obstacles.
  - **Capital Letters:** actual position of rovers.
  - **Lowercase Letters:** previous positions.
 
+You can access in [this link](https://yunevk.github.io/mars-rover-kata/). Don't forget to open the *DevTools*.
+
 ## Instructions
 
 Call the function `runSequence(sequence, rover)`, in console, passing the following parameters: 
