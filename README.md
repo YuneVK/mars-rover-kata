@@ -72,7 +72,7 @@ var totalObstacles = 7;
 
 ## Author
 
-- **Sonia Ruiz Cayuela** - @Yune__vk - yune.vk@gmail.com - [Website](https://yunevk.github.io)
+- **Sonia Ruiz Cayuela** - [@Yune__vk](https://twitter.com/Yune__vk) - yune.vk@gmail.com - [Website](https://yunevk.github.io)
 
 
 
