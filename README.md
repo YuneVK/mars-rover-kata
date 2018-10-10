@@ -4,7 +4,7 @@ Exercise made for the Ironhack Prework.
 
 A simply rover simulator that responds a commands to move forward, backward and turn left or right in a grid. The script creates a grid and random obstacles and only works in console (no UI).
 
-![Example of the script output in console][img/main-screenshot.png]
+![Example of the script output in console](img/main-screenshot.png)
 
 The above table represents the grid which show the rovers and obstacles.
 
@@ -33,7 +33,7 @@ For example, you can run the following line:
 
 And see the output:
 
-![Example of the script output in console after run the above command][img/example-screenshot.png]
+![Example of the script output in console after run the above command](img/example-screenshot.png)
 
 ## Configuration
 
